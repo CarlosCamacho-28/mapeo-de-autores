@@ -1,0 +1,6 @@
+streamlit
+bibtexparser==1.4.0
+pandas
+networkx
+pyvis
+fpdf
